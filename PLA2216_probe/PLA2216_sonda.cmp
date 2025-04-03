@@ -1,0 +1,25 @@
+Component Name : LMH7322SQ/NOPB
+
+Part Count : 2
+
+Part : U?A
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : U?A
+     Pins - (Normal) : 13
+          +              8              Passive
+          -              7              Passive
+          LE             2              Passive
+          L\E\           3              Passive
+          RHYS           6              Passive
+          RHREF          9              Passive
+          PAD            PAD            Passive
+          Q\             24             Passive
+          Q              23             Passive
+          VEE            4              Passive
+          VCCI           5              Passive
+          VCCO           1              Passive
+          VCCO           22             Passive
+          Hidden Pins : 
+
